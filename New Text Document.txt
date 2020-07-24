@@ -62,13 +62,12 @@ This should not only describe what the project would be, but also why you think 
 Your description should include the following sections. The word counts below are recommendations only.
 
 Overview (100 words) This should be a summary of what the project will be.
-This porject is bulding a new smartphone applicaiton. This application will be helpful for basics and busy people about exercise and workout. 
+This porject is bulding a new smartphone applicaiton. This application will be helpful for basics and busy people about little exercise and workout. To support them, this application will provide much information related with workout and recommend exercises for the busy people. Also, we will strive not to make any give up and user can persists the healthy diets and life pattern. 
 Motivation (100) words) This should be a description of why the project will be interesting or useful. This may include statistics or other evidence, such as "There are 1.5 billion cat owners in Australia, and so there is a huge market for an automated cat feeder. Using Raspberry Pi technology is a cheap and easily assembled solution to this problem.''
-In recent years, work out becomes a big trend. Many people are doing workout but also many people quit it easily because they think it is too hard, boring, they don't have a time to do it or they don't know how to do it. For these reasons, I want to make useful workout app to support and motivate them. This app will help for the begineers who want to start workout for sharing ideas, purpose, diet, recommendations of workout products, teaching simple exercises for busy people, and getting motivation. 
+In recent years, work out becomes a big trend. Many people are doing workout but also many people quit it easily because they think it is too hard, boring, they don't have a time to do it or they don't know how to do it. Also, if they don't have any personal training, it is hard to start workout. For these reasons, I want to make useful workout app to support and motivate them.
 Description (500 words) Detailed description of the features of the product or service.
-
+This app will help for the begineers who want to start workout for sharing ideas, purpose, diet, recommendations of workout products, teaching simple exercises for busy people, and getting motivation. Life pattern Have a plan about healthy diet. Alarm systems
 Tools and Technologies (100 words) Describe the software, hardware and/or other equipment needed. Include any relevant open source tools as appropriate.
 First of all, bulding app skills will be needed. 
 Skills Required (100 words) List the skills are required for your project, including software that needs to be written, and special hardware (if any). How feasible will it be to find the skills, software, and hardware required?
-
 Outcome (100 words) If the project is successful, what will be the outcome? How will the original problem be solved? What impact will this development have?
